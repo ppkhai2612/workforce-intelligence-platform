@@ -29,7 +29,3 @@ workforce-intelligence-platform.zip
 
 # OS
 .DS_Store
-
-# NOTE: Project-specific ignores (dbt artifacts, governance generated SQL, etc.)
-# now live in each submodule's own .gitignore.
-TASKS.md
